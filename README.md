@@ -23,8 +23,8 @@ https://www.figma.com/design/d5ijx9QtxO7BH6GyXpCeVB/Vencos-design?node-id=25-206
 
 Variant                               | Description
 :-----------------------------------: | :-------------------------------------------------------:
-<img src="./venco_base.png" width=64> | [`venco_base.png`](./venco_base.png) <br/> The original logo variant; used outline color from https://v3nco.dev/ for the logo
-<img src="./venco_mono.png" width=64> | [`venco_mono.png`](./venco_mono.png) <br/> The original logo variant but monochrome
+<img src="./venco_base.png" width=96> | [`venco_base.png`](./venco_base.png) <br/> The original logo variant; used outline color from https://v3nco.dev/ for the logo
+<img src="./venco_mono.png" width=96> | [`venco_mono.png`](./venco_mono.png) <br/> The original logo variant but monochrome
 
 
 I have had some inspirations from [Emma's Circles](https://github.com/prplwtf/circles); go check [Emma's profile](https://github.com/prplwtf) out ! Really cool person.
