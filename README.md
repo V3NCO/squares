@@ -1,6 +1,14 @@
 # squares
-Venco's branding kit!
 
+<h2 align="center">Venco's branding kit!</h2>
+
+![venco_squares_repo_banner](https://github.com/user-attachments/assets/fa5dc52a-efbf-45fc-8d5b-d30c784e1928)
+
+## Original logo vector files
+
+| Filled                                                           | Outlined                                                  |
+| :--------------------------------------------------------------: | :-------------------------------------------------------: |
+| <img src="./assets/Original_Logos/Filled+Exclude.svg" width=256> | <img src="./assets/Original_Logos/Outline.svg" width=256> |
 
 I have had some inspirations from [Emma's Circles](https://github.com/prplwtf/circles); go check [Emma's profile](https://github.com/prplwtf) out ! Really cool person.
 
