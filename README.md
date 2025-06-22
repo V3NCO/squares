@@ -6,9 +6,26 @@
 
 ## Original logo vector files
 
-| Filled                                                           | Outlined                                                  |
-| :--------------------------------------------------------------: | :-------------------------------------------------------: |
-| <img src="./assets/Original_Logos/Filled+Exclude.svg" width=256> | <img src="./assets/Original_Logos/Outline.svg" width=256> |
+Filled                                                           | Outlined                                                  |
+:--------------------------------------------------------------: | :-------------------------------------------------------: |
+<img src="./assets/Original_Logos/Filled+Exclude.svg" width=256> | <img src="./assets/Original_Logos/Outline.svg" width=256> |
+
+Both of those were made with 3 Squares and an Exclude mask: 2 In the middle (1 Big 1 Smaller) and 1 in the corner; the one in the corner might be misaligned but it's on purpose
+
+## Figma File
+I did all my experimentations to come to this version in this file, and everything related to my branding will be there.
+
+Some of the variants will only be on Figma to avoid clutter on this repo.
+
+https://www.figma.com/design/d5ijx9QtxO7BH6GyXpCeVB/Vencos-design?node-id=25-206&t=vaEZ4vfwMluXGmF6-0
+
+## Variants and related
+
+Variant                               | Description
+:-----------------------------------: | :-------------------------------------------------------:
+<img src="./venco_base.png" width=64> | [`venco_base.png`](./venco_base.png) <br/> The original logo variant; used outline color from https://v3nco.dev/ for the logo
+<img src="./venco_mono.png" width=64> | [`venco_mono.png`](./venco_mono.png) <br/> The original logo variant but monochrome
+
 
 I have had some inspirations from [Emma's Circles](https://github.com/prplwtf/circles); go check [Emma's profile](https://github.com/prplwtf) out ! Really cool person.
 
